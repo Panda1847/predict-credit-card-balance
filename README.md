@@ -1,5 +1,11 @@
 # predict-credit-card-balance
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/predict-credit-card-balance)](https://github.com/Panda1847/predict-credit-card-balance/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/predict-credit-card-balance)](https://github.com/Panda1847/predict-credit-card-balance/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/predict-credit-card-balance)](https://github.com/Panda1847/predict-credit-card-balance/issues)
+
+
 ### Pull request
 
 - fork this repo
